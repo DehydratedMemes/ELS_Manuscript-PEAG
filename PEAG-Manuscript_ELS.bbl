@@ -1,0 +1,165 @@
+\begin{thebibliography}{16}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Yu et~al.(2016)Yu, He, Li, and Truhlar}]{Yu2016a}
+\bibinfo{author}{H.~S. Yu}, \bibinfo{author}{X.~He}, \bibinfo{author}{S.~L.
+  Li}, \bibinfo{author}{D.~G. Truhlar},
+\newblock \bibinfo{title}{{{MN15}}: {{A Kohn}}\textendash{{Sham}} global-hybrid
+  exchange\textendash correlation density functional with broad accuracy for
+  multi-reference and single-reference systems and noncovalent interactions},
+\newblock \bibinfo{journal}{Chem. Sci.} \bibinfo{volume}{7}
+  (\bibinfo{year}{2016}) \bibinfo{pages}{5032--5051}.
+  \DOIprefix\doi{10/gj6rqn}.
+%Type = Article
+\bibitem[{{\'A}sgeirsson et~al.(2021){\'A}sgeirsson, Birgisson, Bjornsson,
+  Becker, Neese, Riplinger, and J{\'o}nsson}]{Asgeirsson2021}
+\bibinfo{author}{V.~{\'A}sgeirsson}, \bibinfo{author}{B.~O. Birgisson},
+  \bibinfo{author}{R.~Bjornsson}, \bibinfo{author}{U.~Becker},
+  \bibinfo{author}{F.~Neese}, \bibinfo{author}{C.~Riplinger},
+  \bibinfo{author}{H.~J{\'o}nsson},
+\newblock \bibinfo{title}{Nudged elastic band method for molecular reactions
+  using energy-weighted springs combined with eigenvector following},
+\newblock \bibinfo{journal}{J. Chem. Theory Comput.} \bibinfo{volume}{17}
+  (\bibinfo{year}{2021}) \bibinfo{pages}{4929--4945}.
+  \DOIprefix\doi{10/gnmx7x}.
+%Type = Article
+\bibitem[{Lefebvre et~al.(2018)Lefebvre, Khartabil, Boisson,
+  {Contreras-Garc{\'i}a}, Piquemal, and H{\'e}non}]{Lefebvre2018}
+\bibinfo{author}{C.~Lefebvre}, \bibinfo{author}{H.~Khartabil},
+  \bibinfo{author}{J.-C. Boisson}, \bibinfo{author}{J.~{Contreras-Garc{\'i}a}},
+  \bibinfo{author}{J.-P. Piquemal}, \bibinfo{author}{E.~H{\'e}non},
+\newblock \bibinfo{title}{The {{Independent Gradient Model}}: {{A New
+  Approach}} for {{Probing Strong}} and {{Weak Interactions}} in {{Molecules}}
+  from {{Wave Function Calculations}}},
+\newblock \bibinfo{journal}{ChemPhysChem} \bibinfo{volume}{19}
+  (\bibinfo{year}{2018}) \bibinfo{pages}{724--735}. \DOIprefix\doi{10/gpng7f}.
+%Type = Article
+\bibitem[{Geyer et~al.(2017)Geyer, Jambeck, and Law}]{Geyer2017}
+\bibinfo{author}{R.~Geyer}, \bibinfo{author}{J.~R. Jambeck},
+  \bibinfo{author}{K.~L. Law},
+\newblock \bibinfo{title}{Production, use, and fate of all plastics ever made},
+\newblock \bibinfo{journal}{Sci. Adv.} \bibinfo{volume}{3}
+  (\bibinfo{year}{2017}) \bibinfo{pages}{e1700782}. \DOIprefix\doi{10/b9sp}.
+%Type = Article
+\bibitem[{Caldicott(1999)}]{Caldicott1999}
+\bibinfo{author}{R.~J. Caldicott},
+\newblock \bibinfo{title}{The basics of stretch blow molding {{PET}}
+  containers},
+\newblock \bibinfo{journal}{Plast. Eng.} \bibinfo{volume}{55}
+  (\bibinfo{year}{1999}) \bibinfo{pages}{35--39}.
+%Type = Article
+\bibitem[{Thompson et~al.(2009)Thompson, Swan, Moore, and vom
+  Saal}]{Thompson2009}
+\bibinfo{author}{R.~C. Thompson}, \bibinfo{author}{S.~H. Swan},
+  \bibinfo{author}{C.~J. Moore}, \bibinfo{author}{F.~S. vom Saal},
+\newblock \bibinfo{title}{Our plastic age},
+\newblock \bibinfo{journal}{Philosophical Transactions of the Royal Society B:
+  Biological Sciences} \bibinfo{volume}{364} (\bibinfo{year}{2009})
+  \bibinfo{pages}{1973--1976}. \DOIprefix\doi{10/dqvcxx}.
+%Type = Article
+\bibitem[{Paszun and Spychaj(1997)}]{Paszun1997}
+\bibinfo{author}{D.~Paszun}, \bibinfo{author}{T.~Spychaj},
+\newblock \bibinfo{title}{Chemical recycling of poly(ethylene terephthalate)},
+\newblock \bibinfo{journal}{Ind. Eng. Chem. Res.} \bibinfo{volume}{36}
+  (\bibinfo{year}{1997}) \bibinfo{pages}{1373--1383}.
+  \DOIprefix\doi{10/b2t5nm}.
+%Type = Article
+\bibitem[{Campanelli et~al.(1993)Campanelli, Kamal, and
+  Cooper}]{Campanelli1993}
+\bibinfo{author}{J.~R. Campanelli}, \bibinfo{author}{M.~R. Kamal},
+  \bibinfo{author}{D.~G. Cooper},
+\newblock \bibinfo{title}{A kinetic study of the hydrolytic degradation of
+  polyethylene terephthalate at high temperatures},
+\newblock \bibinfo{journal}{J. Appl. Polym. Sci.} \bibinfo{volume}{48}
+  (\bibinfo{year}{1993}) \bibinfo{pages}{443--451}. \DOIprefix\doi{10/ch9q4p}.
+%Type = Article
+\bibitem[{Campanelli et~al.(1994{\natexlab{a}})Campanelli, Kamal, and
+  Cooper}]{Campanelli1994}
+\bibinfo{author}{J.~R. Campanelli}, \bibinfo{author}{M.~R. Kamal},
+  \bibinfo{author}{D.~G. Cooper},
+\newblock \bibinfo{title}{Kinetics of glycolysis of poly(ethylene
+  terephthalate) melts},
+\newblock \bibinfo{journal}{J. Appl. Polym. Sci.} \bibinfo{volume}{54}
+  (\bibinfo{year}{1994}{\natexlab{a}}) \bibinfo{pages}{1731--1740}.
+  \DOIprefix\doi{10/bhq8n4}.
+%Type = Article
+\bibitem[{Campanelli et~al.(1994{\natexlab{b}})Campanelli, Cooper, and
+  Kamal}]{Campanelli1994a}
+\bibinfo{author}{J.~R. Campanelli}, \bibinfo{author}{D.~G. Cooper},
+  \bibinfo{author}{M.~R. Kamal},
+\newblock \bibinfo{title}{Catalyzed hydrolysis of polyethylene terephthalate
+  melts},
+\newblock \bibinfo{journal}{J. Appl. Polym. Sci.} \bibinfo{volume}{53}
+  (\bibinfo{year}{1994}{\natexlab{b}}) \bibinfo{pages}{985--991}.
+  \DOIprefix\doi{10/fcgbkg}.
+%Type = Article
+\bibitem[{Vaidya and Nadkarni(1988)}]{Vaidya1988}
+\bibinfo{author}{U.~R. Vaidya}, \bibinfo{author}{V.~M. Nadkarni},
+\newblock \bibinfo{title}{Polyester polyols for polyurethanes from pet waste:
+  Kinetics of polycondensation},
+\newblock \bibinfo{journal}{J. Appl. Polym. Sci.} \bibinfo{volume}{35}
+  (\bibinfo{year}{1988}) \bibinfo{pages}{775--785}. \DOIprefix\doi{10/fkszjj}.
+%Type = Article
+\bibitem[{Ghaemy and Mossaddegh(2005)}]{Ghaemy2005}
+\bibinfo{author}{M.~Ghaemy}, \bibinfo{author}{K.~Mossaddegh},
+\newblock \bibinfo{title}{Depolymerisation of poly(ethylene terephthalate)
+  fibre wastes using ethylene glycol},
+\newblock \bibinfo{journal}{Polym. Degrad. Stab.} \bibinfo{volume}{90}
+  (\bibinfo{year}{2005}) \bibinfo{pages}{570--576}. \DOIprefix\doi{10/fhmhv7}.
+%Type = Article
+\bibitem[{{Elizondo-Mart{\'i}nez} et~al.(2013){Elizondo-Mart{\'i}nez},
+  {N{\'a}jera-Mart{\'i}nez}, {P{\'e}rez-Rodr{\'i}guez}, {Hinojosa-Reyes}, and
+  G{\'o}mez Del~R{\'i}o}]{Elizondo-Martinez2013}
+\bibinfo{author}{P.~{Elizondo-Mart{\'i}nez}},
+  \bibinfo{author}{B.~{N{\'a}jera-Mart{\'i}nez}},
+  \bibinfo{author}{N.~{P{\'e}rez-Rodr{\'i}guez}},
+  \bibinfo{author}{L.~{Hinojosa-Reyes}}, \bibinfo{author}{I.~G{\'o}mez
+  Del~R{\'i}o},
+\newblock \bibinfo{title}{Polyaza macroligands as potential agents for heavy
+  metal removal from wastewater},
+\newblock \bibinfo{journal}{J. Serb. Chem. Soc.} \bibinfo{volume}{78}
+  (\bibinfo{year}{2013}) \bibinfo{pages}{591--602}. \DOIprefix\doi{10/gjqg6j}.
+%Type = Article
+\bibitem[{{Ovalle-S{\'a}nchez} et~al.(2017){Ovalle-S{\'a}nchez},
+  {Elizondo-Mart{\'i}nez}, {P{\'e}rez-Rodr{\'i}guez},
+  {Hern{\'a}ndez-Fern{\'a}ndez}, and
+  {S{\'a}nchez-Anguiano}}]{Ovalle-Sanchez2017}
+\bibinfo{author}{A.~{Ovalle-S{\'a}nchez}},
+  \bibinfo{author}{P.~{Elizondo-Mart{\'i}nez}},
+  \bibinfo{author}{N.~{P{\'e}rez-Rodr{\'i}guez}},
+  \bibinfo{author}{E.~{Hern{\'a}ndez-Fern{\'a}ndez}}, \bibinfo{author}{M.~G.
+  {S{\'a}nchez-Anguiano}},
+\newblock \bibinfo{title}{Degradation of poly(ethyleneterephtalate) waste to
+  obtain oligomers using a zinc complex as catalyst},
+\newblock \bibinfo{journal}{J. Chil. Chem. Soc.} \bibinfo{volume}{62}
+  (\bibinfo{year}{2017}) \bibinfo{pages}{3741--3745}.
+  \DOIprefix\doi{10/gjqg6r}.
+%Type = Article
+\bibitem[{Abdelaal et~al.(2008)Abdelaal, Sobahi, and Makki}]{Abdelaal2008}
+\bibinfo{author}{M.~Y. Abdelaal}, \bibinfo{author}{T.~R. Sobahi},
+  \bibinfo{author}{M.~S.~I. Makki},
+\newblock \bibinfo{title}{Chemical degradation of poly(ethylene
+  terephthalate)},
+\newblock \bibinfo{journal}{International Journal of Polymeric Materials}
+  \bibinfo{volume}{57} (\bibinfo{year}{2008}) \bibinfo{pages}{73--80}.
+  \DOIprefix\doi{10/b55x8v}.
+%Type = Article
+\bibitem[{Nikje and Nazari(2006)}]{Nikje2006}
+\bibinfo{author}{M.~M.~A. Nikje}, \bibinfo{author}{F.~Nazari},
+\newblock \bibinfo{title}{Microwave-assisted depolymerization of poly(ethylene
+  terephthalate) [{{PET}}] at atmospheric pressure},
+\newblock \bibinfo{journal}{Adv. Polym. Tech.} \bibinfo{volume}{25}
+  (\bibinfo{year}{2006}) \bibinfo{pages}{242--246}. \DOIprefix\doi{10/c62nvj}.
+
+\end{thebibliography}

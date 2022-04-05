@@ -1,58 +1,62 @@
-% !TeX spellcheck = en_US
-\documentclass[preprint,times,sort&compress]{elsarticle}
+\documentclass[preprint,review,12pt,sort&compress]{elsarticle}
+
+%% Use the option review to obtain double line spacing
+%% \documentclass[authoryear,preprint,review,12pt]{elsarticle}
+
+%% Use the options 1p,twocolumn; 3p; 3p,twocolumn; 5p; or 5p,twocolumn
+%% for a journal layout:
+%% \documentclass[final,1p,times]{elsarticle}
+%% \documentclass[final,1p,times,twocolumn]{elsarticle}
+%% \documentclass[final,3p,times]{elsarticle}
+% \documentclass[final,3p,times,twocolumn,sort&compress]{elsarticle}
+%% \documentclass[final,5p,times]{elsarticle}
+%% \documentclass[final,5p,times,twocolumn]{elsarticle}
+
+%% For including figures, graphicx.sty has been loaded in
+%% elsarticle.cls. If you prefer to use the old commands
+%% please give \usepackage{epsfig}
+
+%% The amssymb package provides various useful mathematical symbols
+% \usepackage{amssymb}
+%% The amsthm package provides extended theorem environments
+%% \usepackage{amsthm}
+
+%% The lineno packages adds line numbers. Start line numbering with
+%% \begin{linenumbers}, end it with \end{linenumbers}. Or switch it on
+%% for the whole article with \linenumbers.
+%% \usepackage{lineno}
 \input{preamble}
 
+\journal{Polymer}
+
+\begin{document}
+\linenumbers
 \input{frontmatter}
 
-% \author{Pablo E. Alanis González}
-% \affiliation[Universidad Autónoma de Nuevo León]
-% {Universidad Autónoma de Nuevo León, San Nicolás de los Garza, N.L.}
-% \altaffiliation{Facultad de Ciencias Químicas, UANL}
-% \email{pabloalanis1998@gmail.com}
-% \phone{+52 (81) 1177 3600}
+%% \linenumbers
 
-% \author{Isabel del Carmen Saenz Tavera}
-% \affiliation[Universidad Autónoma de Nuevo León]
-% {Facultad de Ciencias Químicas, Universidad Autónoma de Nuevo León, San Nicolás de los Garza, N.L.}
-% \altaffiliation{Facultad de Ciencias Químicas, UANL}
+%% main text
 
-% \author{Victor Manuel Rosas García}
-% \affiliation[Universidad Autónoma de Nuevo Leon]
-% {Facultad de Ciencias Químicas, Universidad Autónoma de Nuevo León, San Nicolás de los Garza, N.L.}
-% \altaffiliation{Facultad de Ciencias Químicas, UANL}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% The document title should be given as usual. Some journals require
-%% a running title from the author: this should be supplied as an
-%% optional argument to \title.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \title{Computational study of the glycolytic degradation of \iupac{poly|(ethylene terephthalate)} catalyzed by \iupac{\N^1,\N^2-bis|(2-amino|benzyl)|-1,2-|diamino|ethane zinc(II)}}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% Some journals require a list of abbreviations or keywords to be
-%% supplied. These should be set up here, and will be printed after
-%% the title and author information, if needed.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \abbreviations{DFT,meta-NGA,PET,ABEN,EG}
-% \keywords{Depolimerization,PET,Zinc catalists}
-
-% \begin{document}
-
-% \abstract{
-% \linenumbers
-% A possible reaction mechanism of the glycolytic degradation of \iupac{poly|(ethylene terephthalate)} (PET) catalyzed with \iupac{\N^1,\N^2-bis|(2-amino|benzyl)|-1,2-|diamino|ethane zinc(II)} (ABEN) was determined using KS-DFT using the meta-NGA global-hybrid functional, MN15 \cite{Yu2016a} up to def2-SVP/def2-TZVP level of theory making use of an energy-weighted climbing image nudged elastic band (EW-CI-NEB) algorithm \cite{Asgeirsson2021} to determine the minimum energy path (MEP) and then optimizing the converged climbing image (CI) using eigenvector-following partitioned rational function optimization (EF P-RFO) to obtain the transition state (TS). The non-covalent interactions where obtained using and averaged independent gradient model (aIGM) algorithm \cite{Lefebvre2018}
+% introduction, experimental section, results, discussion and conclusion:
 
 \input{introduction}
-\input{methodology}
 
-% \bibliography{PEAG-ref}
+\input{experimental}
 
-%% Loading bibliography style file
-%\bibliographystyle{model1-num-names}
-\bibliographystyle{cas-model2-names}
+\input{results}
+\input{discussion}
+\input{conclusion}
+%% The Appendices part is started with the command \appendix;
+%% appendix sections are then done as normal sections
+%% \appendix
 
-% Loading bibliography database
+%% \section{}
+%% \label{}
+
+%% If you have bibdatabase file and want bibtex to generate the
+%% bibitems, please use
+%%
+\bibliographystyle{elsarticle-num-names}
 \bibliography{PEAG-ref}
 
 \end{document}

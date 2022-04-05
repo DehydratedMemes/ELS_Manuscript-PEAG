@@ -1,0 +1,1256 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.16)  4 APR 2022 20:30
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/pabloalanis/Documents/ELS_Manuscript-PEAG/PEAG-Manuscript_ELS
+(/Users/pabloalanis/Documents/ELS_Manuscript-PEAG/PEAG-Manuscript_ELS.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-05> (/usr/local/texlive/2021/texmf-dist/tex/latex/elsarticle/elsarticle.cls
+Document Class: elsarticle 2020/11/20, 3.3: Elsevier Ltd
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-05 L3 programming layer (loader) 
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count181
+\l__color_backend_stack_int=\count182
+\g__color_backend_stack_int=\count183
+\g__graphics_track_int=\count184
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count185
+\g__pdf_backend_annotation_int=\count186
+\g__pdf_backend_link_int=\count187
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count188
+)
+\@bls=\dimen138
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+)
+\c@tnote=\count197
+\c@fnote=\count198
+\c@cnote=\count199
+\c@ead=\count266
+\c@author=\count267
+\@eadauthor=\toks17
+\c@affn=\count268
+\absbox=\box51
+\elsarticlehighlightsbox=\box52
+\elsarticlegrabsbox=\box53
+\keybox=\box54
+\Columnwidth=\dimen142
+\space@left=\dimen143
+\els@boxa=\box55
+\els@boxb=\box56
+\leftMargin=\dimen144
+\@enLab=\toks18
+\@sep=\skip49
+\@@sep=\skip50
+ (./PEAG-Manuscript_ELS.spl) (/usr/local/texlive/2021/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count269
+)
+\splwrite=\write3
+\openout3 = `PEAG-Manuscript_ELS.spl'.
+
+\appnamewidth=\dimen145
+) (./preamble.tex (/usr/local/texlive/2021/texmf-dist/tex/latex/chemmacros/chemmacros.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+Package: chemmacros 2022/02/13 v6.1 comprehensive support for typesetting chemistry documents (CN & SK)
+\l__chemmacros_tmpa_dim=\dimen146
+\l__chemmacros_tmpb_dim=\dimen147
+\l__chemmacros_tmpc_dim=\dimen148
+\l__chemmacros_tmpa_int=\count270
+\l__chemmacros_tmpb_int=\count271
+\l__chemmacros_tmpc_int=\count272
+\l__chemmacros_tmpa_box=\box57
+\l__chemmacros_tmpb_box=\box58
+\l__chemmacros_tmpc_box=\box59
+Loading the chemmacros module `base' ...
+
+Loading the chemmacros module `base' ...
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2021/04/25 v1.2e Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen149
+))
+Loading the chemmacros module `errorcheck' ...
+
+Loading the chemmacros module `errorcheck' ...
+Loading the chemmacros module `lang' ...
+Loading the chemmacros module `lang' ...
+(/usr/local/texlive/2021/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+))
+Loading the chemmacros module `greek' ...
+
+Loading the chemmacros module `greek' ...
+(/usr/local/texlive/2021/texmf-dist/tex/latex/chemgreek/chemgreek.sty
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use in chemistry (CN)
+\l__chemgreek_tmpa_int=\count273
+\g__chemgreek_tmpa_int=\count274
+)
+Loading the chemmacros module `formula' ...
+
+Loading the chemmacros module `formula' ...
+Loading the chemmacros module `charges' ...
+Loading the chemmacros module `charges' ...
+Loading the chemmacros module `acid-base' ...
+Loading the chemmacros module `acid-base' ...
+Loading the chemmacros module `symbols' ...
+Loading the chemmacros module `symbols' ...
+Loading the chemmacros module `particles' ...
+Loading the chemmacros module `particles' ...
+\l__chemmacros_nucleophile_dim=\dimen150
+Loading the chemmacros module `phases' ...
+Loading the chemmacros module `phases' ...
+\l__chemmacros_phases_space_dim=\dimen151
+Loading the chemmacros module `nomenclature' ...
+Loading the chemmacros module `nomenclature' ...
+\l__chemmacros_cip_kern_dim=\dimen152
+\l__chemmacros_iupac_hyphen_pre_dim=\dimen153
+\l__chemmacros_iupac_hyphen_post_dim=\dimen154
+\l__chemmacros_iupac_break_dim=\dimen155
+\l__chemmacros_iupac_break_skip=\skip53
+Loading the chemmacros module `tikz' ...
+Loading the chemmacros module `tikz' ...
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen156
+\pgfutil@tempdimb=\dimen157
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box60
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks23
+))
+\pgf@x=\dimen158
+\pgf@y=\dimen159
+\pgf@xa=\dimen160
+\pgf@ya=\dimen161
+\pgf@xb=\dimen162
+\pgf@yb=\dimen163
+\pgf@xc=\dimen164
+\pgf@yc=\dimen165
+\pgf@xd=\dimen166
+\pgf@yd=\dimen167
+\w@pgf@writea=\write4
+\r@pgf@reada=\read2
+\c@pgf@counta=\count275
+\c@pgf@countb=\count276
+\c@pgf@countc=\count277
+\c@pgf@countd=\count278
+\t@pgf@toka=\toks24
+\t@pgf@tokb=\toks25
+\t@pgf@tokc=\toks26
+\pgf@sys@id@count=\count279
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-xetex.def
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)
+\pgfsys@objnum=\count280
+))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count281
+\pgfsyssoftpath@bigbuffer@items=\count282
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen168
+\pgfmath@count=\count283
+\pgfmath@box=\box61
+\pgfmath@toks=\toks27
+\pgfmath@stack@operand=\toks28
+\pgfmath@stack@operation=\toks29
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count284
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen169
+\pgf@picmaxx=\dimen170
+\pgf@picminy=\dimen171
+\pgf@picmaxy=\dimen172
+\pgf@pathminx=\dimen173
+\pgf@pathmaxx=\dimen174
+\pgf@pathminy=\dimen175
+\pgf@pathmaxy=\dimen176
+\pgf@xx=\dimen177
+\pgf@xy=\dimen178
+\pgf@yx=\dimen179
+\pgf@yy=\dimen180
+\pgf@zx=\dimen181
+\pgf@zy=\dimen182
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen183
+\pgf@path@lasty=\dimen184
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen185
+\pgf@shorten@start@additional=\dimen186
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box62
+\pgf@hbox=\box63
+\pgf@layerbox@main=\box64
+\pgf@picture@serial@count=\count285
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen187
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen188
+\pgf@pt@y=\dimen189
+\pgf@pt@temp=\dimen190
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen191
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen192
+\pgf@sys@shading@range@num=\count286
+\pgf@shadingcount=\count287
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box65
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box66
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen193
+\pgf@nodesepend=\dimen194
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen195
+\pgffor@skip=\dimen196
+\pgffor@stack=\toks30
+\pgffor@toks=\toks31
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count288
+\pgfplotmarksize=\dimen197
+)
+\tikz@lastx=\dimen198
+\tikz@lasty=\dimen199
+\tikz@lastxsaved=\dimen256
+\tikz@lastysaved=\dimen257
+\tikz@lastmovetox=\dimen258
+\tikz@lastmovetoy=\dimen259
+\tikzleveldistance=\dimen260
+\tikzsiblingdistance=\dimen261
+\tikz@figbox=\box67
+\tikz@figbox@bg=\box68
+\tikz@tempbox=\box69
+\tikz@tempbox@bg=\box70
+\tikztreelevel=\count289
+\tikznumberofchildren=\count290
+\tikznumberofcurrentchild=\count291
+\tikz@fig@count=\count292
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count293
+\pgfmatrixcurrentcolumn=\count294
+\pgf@matrix@numberofcolumns=\count295
+)
+\tikz@expandcount=\count296
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen262
+\pgfdecoratedremainingdistance=\dimen263
+\pgfdecoratedinputsegmentcompleteddistance=\dimen264
+\pgfdecoratedinputsegmentremainingdistance=\dimen265
+\pgf@decorate@distancetomove=\dimen266
+\pgf@decorate@repeatstate=\count297
+\pgfdecorationsegmentamplitude=\dimen267
+\pgfdecorationsegmentlength=\dimen268
+)
+\tikz@lib@dec@box=\box71
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex))
+\l__chemmacros_el_length_dim=\dimen269
+Loading the chemmacros module `isotopes' ...
+
+Loading the chemmacros module `isotopes' ...
+(/usr/local/texlive/2021/texmf-dist/tex/latex/elements/elements.sty
+Package: elements 2022/01/29 v0.4 properties of chemical elements
+\c@@elements@orbital@type=\count298
+\c@@elements@shell@number=\count299
+)
+Loading the chemmacros module `mechanisms' ...
+
+Loading the chemmacros module `mechanisms' ...
+Loading the chemmacros module `newman' ...
+Loading the chemmacros module `newman' ...
+Loading the chemmacros module `orbital' ...
+Loading the chemmacros module `orbital' ...
+Loading the chemmacros module `polymers' ...
+Loading the chemmacros module `polymers' ...
+\l__chemmacros_polymer_delimiter_height_dim=\dimen270
+\l__chemmacros_polymer_delimiter_depth_dim=\dimen271
+Loading the chemmacros module `reactions' ...
+Loading the chemmacros module `reactions' ...
+\c@reaction=\count300
+(/usr/local/texlive/2021/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count301
+\calc@Bcount=\count302
+\calc@Adimen=\dimen272
+\calc@Bdimen=\dimen273
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count303
+\calc@Cskip=\skip56
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+LaTeX Info: Redefining \boldsymbol on input line 28.
+\pmbraise@=\dimen274
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count304
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count305
+\leftroot@=\count306
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count307
+\DOTSCASE@=\count308
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box72
+\strutbox@=\box73
+\big@size=\dimen275
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count309
+\c@MaxMatrixCols=\count310
+\dotsspace@=\muskip16
+\c@parentequation=\count311
+\dspbrk@lvl=\count312
+\tag@help=\toks32
+\row@=\count313
+\column@=\count314
+\maxfields@=\count315
+\andhelp@=\toks33
+\eqnshift@=\dimen276
+\alignsep@=\dimen277
+\tagshift@=\dimen278
+\tagwidth@=\dimen279
+\totwidth@=\dimen280
+\lineht@=\dimen281
+\@envbody=\toks34
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks35
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+\g_MT_multlinerow_int=\count316
+\l_MT_multwidth_dim=\dimen282
+\origjot=\skip60
+\l_MT_shortvdotswithinadjustabove_dim=\dimen283
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen284
+\l_MT_above_intertext_sep=\dimen285
+\l_MT_below_intertext_sep=\dimen286
+\l_MT_above_shortintertext_sep=\dimen287
+\l_MT_below_shortintertext_sep=\dimen288
+\xmathstrut@box=\box74
+\xmathstrut@dim=\dimen289
+)
+Loading the chemmacros module `redox' ...
+
+Loading the chemmacros module `redox' ...
+(/usr/local/texlive/2021/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\l__chemmacros_ox_number_int=\count317
+\l__chemmacros_redox_sep_dim=\dimen290
+\l__chemmacros_redox_sep_default_dim=\dimen291
+\l__chemmacros_redox_dist_dim=\dimen292
+Loading the chemmacros module `xfrac' ...
+
+Loading the chemmacros module `xfrac' ...
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xfrac/xfrac.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2022-01-12 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen293
+\l__xtemplate_tmp_int=\count318
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip61
+)
+Package: xfrac 2022-01-12 L3 Experimental split-level fractions
+\l__xfrac_slash_box=\box75
+\l__xfrac_tmp_box=\box76
+\l__xfrac_denominator_bot_sep_dim=\dimen294
+\l__xfrac_numerator_bot_sep_dim=\dimen295
+\l__xfrac_numerator_top_sep_dim=\dimen296
+\l__xfrac_slash_left_sep_dim=\dimen297
+\l__xfrac_slash_right_sep_dim=\dimen298
+\l__xfrac_slash_left_muskip=\muskip18
+\l__xfrac_slash_right_muskip=\muskip19
+
+Package xtemplate Info: Declaring object type 'xfrac' taking 3 argument(s) on
+(xtemplate)             line 80.
+
+)
+Loading the chemmacros module `scheme' ...
+
+Loading the chemmacros module `scheme' ...
+(/usr/local/texlive/2021/texmf-dist/tex/latex/chemnum/chemnum.sty
+Package: chemnum 2021/01/21 v1.3a a comprehensive approach for the numbering of chemical compounds (CN)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psfrag/psfrag.sty
+Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
+\pfg@pcount=\count319
+\pfg@scount=\count320
+\pfg@temp=\write5
+)
+\l__chemnum_tmpa_int=\count321
+\l__chemnum_tmpb_int=\count322
+\l__chemnum_tmpc_int=\count323
+\c@cmpdmain=\count324
+\g__chemnum_main_int=\count325
+\l__chemnum_compound_replace_int=\count326
+)
+Loading the chemmacros module `spectroscopy' ...
+
+Loading the chemmacros module `spectroscopy' ...
+(/usr/local/texlive/2021/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2022-02-07 v3.0.48 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen299
+\l__siunitx_angle_marker_box=\box77
+\l__siunitx_angle_unit_box=\box78
+\l__siunitx_compound_count_int=\count327
+\l__siunitx_number_exponent_fixed_int=\count328
+\l__siunitx_number_min_decimal_int=\count329
+\l__siunitx_number_min_integer_int=\count330
+\l__siunitx_number_round_precision_int=\count331
+\l__siunitx_number_group_minimum_int=\count332
+\l__siunitx_table_tmp_box=\box79
+\l__siunitx_table_tmp_dim=\dimen300
+\l__siunitx_table_column_width_dim=\dimen301
+\l__siunitx_table_integer_box=\box80
+\l__siunitx_table_decimal_box=\box81
+\l__siunitx_table_before_box=\box82
+\l__siunitx_table_after_box=\box83
+\l__siunitx_table_before_dim=\dimen302
+\l__siunitx_table_carry_dim=\dimen303
+\l__siunitx_unit_tmp_int=\count333
+\l__siunitx_unit_position_int=\count334
+\l__siunitx_unit_total_int=\count335
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen304
+\ar@mcellbox=\box84
+\extrarowheight=\dimen305
+\NC@list=\toks36
+\extratabsurround=\skip62
+\backup@length=\skip63
+\ar@cellbox=\box85
+))
+\l__chemmacros_nmr_space_skip=\skip64
+Loading the chemmacros module `thermodynamics' ...
+
+Loading the chemmacros module `thermodynamics' ...
+Loading the chemmacros module `units' ...
+Loading the chemmacros module `units' ...
+Loading the chemmacros module `reactants' ...
+Loading the chemmacros module `reactants' ...
+Loading the chemmacros module `translations' ...
+Loading the chemmacros module `translations' ...
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/textgreek/textgreek.sty
+Package: textgreek 2011/10/09 v0.7 Greek symbols in text
+Package textgreek Info: Loading the definitions for the Greek fontencoding. on input line 39.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
+File: lgrenc.def 2020/10/13 2.0 LGR Greek font encoding definitions
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
+))
+Package textgreek Info: Loaded fontmap: {eur/*/*}{U/eur/*/*} {phv/*/*}{U/psy/*/*}. on input line 69.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/chemschemex/chemschemex.sty
+Package: chemschemex 2018/01/20 v1.2 Typeset chemical schemes
+Package: chemschemex 2017/04/03 v1.1.1 Typeset chemical schemes
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks37
+\XKV@tempa@toks=\toks38
+)
+\XKV@depth=\count336
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/xargs/xargs.sty
+Package: xargs 2008/03/22 v1.1  extended macro definitions  (mpg)
+\xargs@max=\count337
+\xargs@toksa=\toks39
+\xargs@toksb=\toks40
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/bigfoot/suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fancylabel/fancylabel.sty
+Package: fancylabel 2017/12/30 v1.1 Referencing in a fancy way
+\c@fancylabel=\count338
+\c@fancysublabel=\count339
+\c@fancyref@sort@x=\count340
+\c@fancyref@sort@y=\count341
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodepartlowerbox=\box86
+\pgfnodeparttwobox=\box87
+\pgfnodepartthreebox=\box88
+\pgfnodepartfourbox=\box89
+\pgfnodeparttwentybox=\box90
+\pgfnodepartnineteenbox=\box91
+\pgfnodeparteighteenbox=\box92
+\pgfnodepartseventeenbox=\box93
+\pgfnodepartsixteenbox=\box94
+\pgfnodepartfifteenbox=\box95
+\pgfnodepartfourteenbox=\box96
+\pgfnodepartthirteenbox=\box97
+\pgfnodeparttwelvebox=\box98
+\pgfnodepartelevenbox=\box99
+\pgfnodeparttenbox=\box100
+\pgfnodepartninebox=\box101
+\pgfnodeparteightbox=\box102
+\pgfnodepartsevenbox=\box103
+\pgfnodepartsixbox=\box104
+\pgfnodepartfivebox=\box105
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.markings.code.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.markings.code.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen306
+\pgfarrowlength=\dimen307
+\pgfarrowwidth=\dimen308
+\pgfarrowlinewidth=\dimen309
+)
+\CSXimagewidth=\skip65
+\CSXlabelwidth=\skip66
+\CSXmaxlabelwidth=\skip67
+\CSXtextwidth=\skip68
+\CSXmaxtextwidth=\skip69
+\CSXarrowlength=\skip70
+\c@CSXscheme=\count342
+\c@CSXstruct=\count343
+\c@CSXstructinarrow=\count344
+\c@CSXcaption=\count345
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2021/04/12 v1.53 Modern multilingual typesetting with XeLaTeX and LuaLaTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/makecmds/makecmds.sty
+Package: makecmds 2009/09/03 v1.0a extra command making commands
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count346
+\l__fontspec_language_int=\count347
+\l__fontspec_strnum_int=\count348
+\l__fontspec_tmp_int=\count349
+\l__fontspec_tmpa_int=\count350
+\l__fontspec_tmpb_int=\count351
+\l__fontspec_tmpc_int=\count352
+\l__fontspec_em_int=\count353
+\l__fontspec_emdef_int=\count354
+\l__fontspec_strong_int=\count355
+\l__fontspec_strongdef_int=\count356
+\l__fontspec_tmpa_dim=\dimen310
+\l__fontspec_tmpb_dim=\dimen311
+\l__fontspec_tmpc_dim=\dimen312
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+
+LaTeX hooks Warning: Generic hook 'file/after/tracklang.sty' is deprecated.
+(hooks)              Use hook 'file/tracklang.sty/after' instead.
+
+
+LaTeX hooks Warning: Generic hook 'package/after/bidi' is deprecated.
+(hooks)              Use hook 'package/bidi/after' instead.
+
+
+LaTeX hooks Warning: Generic hook 'package/after/luabidi' is deprecated.
+(hooks)              Use hook 'package/luabidi/after' instead.
+
+\xpg@normalclass=\XeTeXcharclass1
+(/usr/local/texlive/2021/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
+File: gloss-latex.ldf polyglossia: module for default language
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}.
+)
+Package polyglossia Info: Default language is latex.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/unicode-math/unicode-math.sty
+Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
+Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\g__um_fam_int=\count357
+\g__um_fonts_used_int=\count358
+\l__um_primecount_int=\count359
+\g__um_primekern_muskip=\muskip20
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
+
+Package fontspec Info: Font family 'XITS(0)' created for font 'XITS' with
+(fontspec)             options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"XITS/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"XITS/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"XITS/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"XITS/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"XITS/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'XITS(1)' created for font 'XITS' with
+(fontspec)             options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"XITS/OT:script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"XITS/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"XITS/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"XITS/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"XITS/BI/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/XITS(1)/m/n on input line 9.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/XITS(1)/m/it on input line 9.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/XITS(1)/b/n on input line 9.
+
+Package fontspec Info: Font family 'XITSMath(0)' created for font 'XITS Math'
+(fontspec)             with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"XITS
+(fontspec)             Math/OT:script=math;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"XITS
+(fontspec)             Math/B/OT:script=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'XITSMath(1)' created for font 'XITS Math'
+(fontspec)             with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=10.5-},{Size=8.1-10.5,Font=XITS
+(fontspec)             Math,Style=MathScript},{Size=-8.1,Font=XITS
+(fontspec)             Math,Style=MathScriptScript}}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <10.5->"XITS
+(fontspec)             Math/OT:script=math;language=dflt;"<8.1-10.5>"XITS
+(fontspec)             Math/OT:script=math;language=dflt;+ssty=0;"<-8.1>"XITS
+(fontspec)             Math/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"XITS
+(fontspec)             Math/B/OT:script=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 10.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/XITSMath(1)/m/n on input line 10.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 10.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/XITSMath(1)/b/n on input line 10.
+
+Package fontspec Info: XITS Math scale = 1.0001.
+
+
+Package fontspec Info: XITS Math scale = 1.0001.
+
+
+Package fontspec Info: XITS Math scale = 1.0001.
+
+
+Package fontspec Info: XITS Math scale = 1.0001.
+
+
+Package fontspec Info: XITS Math/B scale = 1.0001.
+
+
+Package fontspec Info: Font family 'XITSMath(2)' created for font 'XITS Math'
+(fontspec)             with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=10.5-},{Size=8.1-10.5,Font=XITS
+(fontspec)             Math,Style=MathScript},{Size=-8.1,Font=XITS
+(fontspec)             Math,Style=MathScriptScript}},ScaleAgain=1.0001,FontAdjustment={\fontdimen
+(fontspec)             8\font =6.96pt\relax \fontdimen 9\font =5.76pt\relax
+(fontspec)             \fontdimen 10\font =5.76pt\relax \fontdimen 11\font
+(fontspec)             =8.4pt\relax \fontdimen 12\font =5.76pt\relax
+(fontspec)             \fontdimen 13\font =4.8pt\relax \fontdimen 14\font
+(fontspec)             =4.8pt\relax \fontdimen 15\font =3.3pt\relax \fontdimen
+(fontspec)             16\font =3.0pt\relax \fontdimen 17\font =3.0pt\relax
+(fontspec)             \fontdimen 18\font =4.5pt\relax \fontdimen 19\font
+(fontspec)             =0.6pt\relax \fontdimen 22\font =3.0pt\relax \fontdimen
+(fontspec)             20\font =0pt\relax \fontdimen 21\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <10.5->s*[1.0001]"XITS
+(fontspec)             Math/OT:script=math;language=dflt;"<8.1-10.5>s*[1.0001]"XITS
+(fontspec)             Math/OT:script=math;language=dflt;+ssty=0;"<-8.1>s*[1.0001]"XITS
+(fontspec)             Math/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =6.96pt\relax \fontdimen 9\font
+(fontspec)             =5.76pt\relax \fontdimen 10\font =5.76pt\relax
+(fontspec)             \fontdimen 11\font =8.4pt\relax \fontdimen 12\font
+(fontspec)             =5.76pt\relax \fontdimen 13\font =4.8pt\relax
+(fontspec)             \fontdimen 14\font =4.8pt\relax \fontdimen 15\font
+(fontspec)             =3.3pt\relax \fontdimen 16\font =3.0pt\relax \fontdimen
+(fontspec)             17\font =3.0pt\relax \fontdimen 18\font =4.5pt\relax
+(fontspec)             \fontdimen 19\font =0.6pt\relax \fontdimen 22\font
+(fontspec)             =3.0pt\relax \fontdimen 20\font =0pt\relax \fontdimen
+(fontspec)             21\font =0pt\relax 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1.0001]"XITS
+(fontspec)             Math/B/OT:script=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =6.96pt\relax \fontdimen 9\font
+(fontspec)             =5.76pt\relax \fontdimen 10\font =5.76pt\relax
+(fontspec)             \fontdimen 11\font =8.4pt\relax \fontdimen 12\font
+(fontspec)             =5.76pt\relax \fontdimen 13\font =4.8pt\relax
+(fontspec)             \fontdimen 14\font =4.8pt\relax \fontdimen 15\font
+(fontspec)             =3.3pt\relax \fontdimen 16\font =3.0pt\relax \fontdimen
+(fontspec)             17\font =3.0pt\relax \fontdimen 18\font =4.5pt\relax
+(fontspec)             \fontdimen 19\font =0.6pt\relax \fontdimen 22\font
+(fontspec)             =3.0pt\relax \fontdimen 20\font =0pt\relax \fontdimen
+(fontspec)             21\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 10.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> TU/XITSMath(2)/m/n on input line 10.
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 10.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> TU/XITSMath(2)/b/n on input line 10.
+
+Package fontspec Info: XITS Math scale = 0.9999.
+
+
+Package fontspec Info: XITS Math scale = 0.9999.
+
+
+Package fontspec Info: XITS Math scale = 0.9999.
+
+
+Package fontspec Info: XITS Math scale = 0.9999.
+
+
+Package fontspec Info: XITS Math/B scale = 0.9999.
+
+
+Package fontspec Info: Font family 'XITSMath(3)' created for font 'XITS Math'
+(fontspec)             with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=10.5-},{Size=8.1-10.5,Font=XITS
+(fontspec)             Math,Style=MathScript},{Size=-8.1,Font=XITS
+(fontspec)             Math,Style=MathScriptScript}},ScaleAgain=0.9999,FontAdjustment={\fontdimen
+(fontspec)             8\font =0.792pt\relax \fontdimen 9\font =1.8pt\relax
+(fontspec)             \fontdimen 10\font =1.8pt\relax \fontdimen 11\font
+(fontspec)             =3.6pt\relax \fontdimen 12\font =7.2pt\relax \fontdimen
+(fontspec)             13\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <10.5->s*[0.9999]"XITS
+(fontspec)             Math/OT:script=math;language=dflt;"<8.1-10.5>s*[0.9999]"XITS
+(fontspec)             Math/OT:script=math;language=dflt;+ssty=0;"<-8.1>s*[0.9999]"XITS
+(fontspec)             Math/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.792pt\relax \fontdimen 9\font
+(fontspec)             =1.8pt\relax \fontdimen 10\font =1.8pt\relax \fontdimen
+(fontspec)             11\font =3.6pt\relax \fontdimen 12\font =7.2pt\relax
+(fontspec)             \fontdimen 13\font =0pt\relax 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[0.9999]"XITS
+(fontspec)             Math/B/OT:script=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.792pt\relax \fontdimen 9\font
+(fontspec)             =1.8pt\relax \fontdimen 10\font =1.8pt\relax \fontdimen
+(fontspec)             11\font =3.6pt\relax \fontdimen 12\font =7.2pt\relax
+(fontspec)             \fontdimen 13\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 10.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> TU/XITSMath(3)/m/n on input line 10.
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 10.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> TU/XITSMath(3)/b/n on input line 10.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+Invalid UTF-8 byte or sequence at line 296 replaced by U+FFFD.
+\linenopenalty=\count360
+\output=\toks41
+\linenoprevgraf=\count361
+\linenumbersep=\dimen313
+\linenumberwidth=\dimen314
+\c@linenumber=\count362
+\c@pagewiselinenumber=\count363
+\c@LN@truepage=\count364
+\c@internallinenumber=\count365
+\c@internallinenumbers=\count366
+\quotelinenumbersep=\dimen315
+\bframerule=\dimen316
+\bframesep=\dimen317
+\bframebox=\box106
+LaTeX Info: Redefining \\ on input line 3056.
+)
+
+Package chemmacros Info: You haven't chosen a formula method so I'm assuming
+(chemmacros)             the default method `chemformula'.
+
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/chemformula/chemformula.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip71
+\L@UnitsRaiseTextstyle=\skip72
+\L@UnitsRaiseScriptstyle=\skip73
+)
+Package: chemformula 2022/01/23 v4.17 typeset chemical compounds and reactions (CN)
+\l__chemformula_tmpa_dim=\dimen318
+\l__chemformula_tmpb_dim=\dimen319
+\l__chemformula_tmpc_dim=\dimen320
+\l__chemformula_tmpa_int=\count367
+\l__chemformula_tmpb_int=\count368
+\l__chemformula_tmpc_int=\count369
+\l__chemformula_tmpa_box=\box107
+\l__chemformula_tmpb_box=\box108
+\l__chemformula_arrow_length_dim=\dimen321
+\l__chemformula_arrow_label_height_dim=\dimen322
+\l__chemformula_arrow_label_offset_dim=\dimen323
+\l__chemformula_arrow_minimum_length_dim=\dimen324
+\l__chemformula_arrow_shortage_dim=\dimen325
+\l__chemformula_arrow_offset_dim=\dimen326
+\l__chemformula_arrow_yshift_dim=\dimen327
+\l__chemformula_radical_radius_dim=\dimen328
+\l__chemformula_radical_hshift_dim=\dimen329
+\l__chemformula_radical_vshift_dim=\dimen330
+\l__chemformula_radical_space_dim=\dimen331
+\l__chemformula_arrow_head_dim=\dimen332
+\l__chemformula_name_dim=\dimen333
+\l__chemformula_adduct_space_dim=\dimen334
+\l__chemformula_charge_shift_dim=\dimen335
+\l__chemformula_subscript_shift_dim=\dimen336
+\l__chemformula_superscript_shift_dim=\dimen337
+\l__chemformula_subscript_dim=\dimen338
+\l__chemformula_superscript_dim=\dimen339
+\l__chemformula_bond_dim=\dimen340
+\l__chemformula_bond_space_dim=\dimen341
+\l__chemformula_elspec_pair_distance_dim=\dimen342
+\l__chemformula_elspec_pair_line_length_dim=\dimen343
+\l__chemformula_elspec_pair_width_dim=\dimen344
+\l__chemformula_kroegervink_positive_radius_dim=\dimen345
+\l__chemformula_kroegervink_positive_hshift_dim=\dimen346
+\l__chemformula_kroegervink_positive_vshift_dim=\dimen347
+\l__chemformula_kroegervink_positive_space_dim=\dimen348
+\l__chemformula_stoich_space_skip=\skip74
+\l__chemformula_math_space_skip=\skip75
+\l__chemformula_additions_symbol_space_skip=\skip76
+\l__chemformula_count_tokens_int=\count370
+\g__chemformula_lewis_int=\count371
+\l__chemformula_arrow_arg_i_box=\box109
+\l__chemformula_arrow_arg_ii_box=\box110
+\l__chemformula_superscript_box=\box111
+\l__chemformula_subscript_box=\box112
+\l__chemformula_plus_space_skip=\skip77
+\l__chemformula_minus_space_skip=\skip78
+)
+
+Package chemmacros Info: Using float defining method `traditional'.
+
+\c@scheme=\count372
+ (./PEAG-Manuscript_ELS.aux
+LaTeX Info: Redefining \rmfamily on input line 9.
+LaTeX Info: Redefining \sffamily on input line 9.
+LaTeX Info: Redefining \ttfamily on input line 9.
+)
+\openout1 = `PEAG-Manuscript_ELS.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 32.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 32.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
+)
+LaTeX Font Info:    ... okay on input line 32.
+Package translations Info: no dictionary file `translations-basic-dictionary-.trsl' found. on input line 32.
+
+Package chemgreek Info: Activating mapping `default' on line 32.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 32.
+
+
+Package unicode-math Warning: Using \overbracket and \underbracket from
+(unicode-math)                `mathtools' package.
+(unicode-math)                 
+(unicode-math)                 Use \Uoverbracket and \Uunderbracket for
+(unicode-math)                original `unicode-math' definition.
+
+
+Package unicode-math Warning: I'm going to overwrite the following commands
+(unicode-math)                from the `mathtools' package: 
+(unicode-math)                 
+(unicode-math)                     \dblcolon, \coloneqq, \Coloneqq, \eqqcolon.
+(unicode-math)                
+(unicode-math)                 
+(unicode-math)                 Note that since I won't overwrite the other
+(unicode-math)                colon-like commands, using them will lead to
+(unicode-math)                inconsistencies.
+
+
+Package chemmacros Warning: You haven't loaded any package for upright Greek
+(chemmacros)                letters or no unique choice was possible. Either
+(chemmacros)                load one of packages specified in the manual or
+(chemmacros)                select a chemgreek mapping manually.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/elements/elements_names_english.def)
+LaTeX Info: Redefining \rmfamily on input line 32.
+LaTeX Info: Redefining \sffamily on input line 32.
+LaTeX Info: Redefining \ttfamily on input line 32.
+ (./frontmatter.tex
+LaTeX Font Info:    Font shape `TU/XITSMath(2)/m/n' will be
+(Font)              scaled to size 12.00128pt on input line 21.
+LaTeX Font Info:    Font shape `TU/XITSMath(2)/m/n' will be
+(Font)              scaled to size 9.00096pt on input line 21.
+LaTeX Font Info:    Font shape `TU/XITSMath(2)/m/n' will be
+(Font)              scaled to size 7.20076pt on input line 21.
+LaTeX Font Info:    Font shape `TU/XITSMath(3)/m/n' will be
+(Font)              scaled to size 11.99872pt on input line 21.
+LaTeX Font Info:    Font shape `TU/XITSMath(3)/m/n' will be
+(Font)              scaled to size 8.99904pt on input line 21.
+LaTeX Font Info:    Font shape `TU/XITSMath(3)/m/n' will be
+(Font)              scaled to size 7.19922pt on input line 21.
+
+Overfull \hbox (9.47502pt too wide) in paragraph at lines 20--22
+\TU/XITS(0)/m/n/12 A possible reaction mechanism of the glycolytic degradation of poly--(ethylene tereph-
+ []
+
+[1
+
+] [2
+
+]
+LaTeX Font Info:    Font shape `TU/XITSMath(2)/m/n' will be
+(Font)              scaled to size 10.00107pt on input line 44.
+LaTeX Font Info:    Font shape `TU/XITSMath(2)/m/n' will be
+(Font)              scaled to size 7.00075pt on input line 44.
+LaTeX Font Info:    Font shape `TU/XITSMath(2)/m/n' will be
+(Font)              scaled to size 5.00053pt on input line 44.
+LaTeX Font Info:    Font shape `TU/XITSMath(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 44.
+LaTeX Font Info:    Font shape `TU/XITSMath(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 44.
+LaTeX Font Info:    Font shape `TU/XITSMath(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 44.
+LaTeX Font Info:    Font shape `TU/XITSMath(2)/m/n' will be
+(Font)              scaled to size 17.28183pt on input line 44.
+LaTeX Font Info:    Font shape `TU/XITSMath(3)/m/n' will be
+(Font)              scaled to size 17.27815pt on input line 44.
+LaTeX Font Info:    Font shape `TU/XITSMath(2)/m/n' will be
+(Font)              scaled to size 6.00064pt on input line 44.
+LaTeX Font Info:    Font shape `TU/XITSMath(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 44.
+) (./introduction.tex
+Overfull \hbox (2.0pt too wide) has occurred while \output is active
+[] 
+ []
+
+[1
+
+
+] [2]
+File: figures/Synth_ABEN.eps Graphic file (type eps)
+<figures/Synth_ABEN.eps>
+) (./experimental.tex
+
+Package natbib Warning: Citation `Bannwarth2021' on page 3 undefined on input line 4.
+
+
+Package natbib Warning: Citation `Bannwarth2019' on page 3 undefined on input line 4.
+
+
+Package natbib Warning: Citation `Daubeny1954' on page 3 undefined on input line 4.
+
+[3]
+
+Package natbib Warning: Citation `Lu2021' on page 4 undefined on input line 7.
+
+
+Overfull \hbox (6.02403pt too wide) in paragraph at lines 7--8
+\TU/XITS(0)/m/n/12 the molecules, an analysis based on Hirshfeld partition of molecular density (IGMH)
+ []
+
+
+Package natbib Warning: Citation `Nikolaienko2014' on page 4 undefined on input line 9.
+
+) (./results.tex) (./discussion.tex) (./conclusion.tex) (./PEAG-Manuscript_ELS.bbl [4]
+Underfull \hbox (badness 1910) in paragraph at lines 27--38
+[]\TU/XITS(0)/m/n/12 V. Ásgeirsson, B. O. Birgisson, R. Bjornsson, U. Becker, F. Neese,
+ []
+
+[5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 138--149
+[]\TU/XITS(0)/m/n/12 A. Ovalle-Sánchez, P. Elizondo-Martínez, N. Pérez-Rodríguez,
+ []
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 138--149
+\TU/XITS(0)/m/n/12 E. Hernández-Fernández, M. G. Sánchez-Anguiano,  Degradation of
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 159--164
+[]\TU/XITS(0)/m/n/12 M. M. A. Nikje, F. Nazari,  Microwave-assisted depolymerization of
+ []
+
+)
+
+Package natbib Warning: There were undefined citations.
+
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}.
+[7] (./PEAG-Manuscript_ELS.aux
+LaTeX Info: Redefining \rmfamily on input line 9.
+LaTeX Info: Redefining \sffamily on input line 9.
+LaTeX Info: Redefining \ttfamily on input line 9.
+)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 33433 strings out of 476182
+ 780874 string characters out of 5809611
+ 1231497 words of memory out of 5000000
+ 53647 multiletter control sequences out of 15000+600000
+ 480605 words of font info for 118 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 104i,9n,117p,1441b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on PEAG-Manuscript_ELS.pdf (9 pages).
