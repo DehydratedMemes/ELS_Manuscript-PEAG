@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.16)  4 APR 2022 20:35
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.16)  4 APR 2022 20:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1171,27 +1171,10 @@ Overfull \hbox (2.0pt too wide) has occurred while \output is active
 ] [2]
 File: figures/Synth_ABEN.eps Graphic file (type eps)
 <figures/Synth_ABEN.eps>
-) (./experimental.tex
-
-Package natbib Warning: Citation `Bannwarth2021' on page 3 undefined on input line 4.
-
-
-Package natbib Warning: Citation `Bannwarth2019' on page 3 undefined on input line 4.
-
-
-Package natbib Warning: Citation `Daubeny1954' on page 3 undefined on input line 4.
-
-[3]
-
-Package natbib Warning: Citation `Lu2021' on page 4 undefined on input line 7.
-
-
+) (./experimental.tex [3]
 Overfull \hbox (6.02403pt too wide) in paragraph at lines 7--8
 \TU/XITS(0)/m/n/12 the molecules, an analysis based on Hirshfeld partition of molecular density (IGMH)
  []
-
-
-Package natbib Warning: Citation `Nikolaienko2014' on page 4 undefined on input line 9.
 
 ) (./results.tex
 File: figures/MEP_r2SCAN_R1.eps Graphic file (type eps)
@@ -1216,14 +1199,11 @@ Underfull \hbox (badness 1874) in paragraph at lines 138--149
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 159--164
+Underfull \hbox (badness 1127) in paragraph at lines 159--166
 []\TU/XITS(0)/m/n/12 M. M. A. Nikje, F. Nazari,  Microwave-assisted depolymerization of
  []
 
-)
-
-Package natbib Warning: There were undefined citations.
-
+[7])
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1242,18 +1222,18 @@ braces):
 >  {latex/babelname}  =>  {latex}
 >  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}.
-[7] (./PEAG-Manuscript_ELS.aux
+ [8] (./PEAG-Manuscript_ELS.aux
 LaTeX Info: Redefining \rmfamily on input line 9.
 LaTeX Info: Redefining \sffamily on input line 9.
 LaTeX Info: Redefining \ttfamily on input line 9.
 ) ) 
 Here is how much of TeX's memory you used:
- 33438 strings out of 476182
- 781016 string characters out of 5809611
+ 33457 strings out of 476182
+ 781447 string characters out of 5809611
  1231497 words of memory out of 5000000
- 53651 multiletter control sequences out of 15000+600000
- 480605 words of font info for 118 fonts, out of 8000000 for 9000
+ 53668 multiletter control sequences out of 15000+600000
+ 480613 words of font info for 119 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  104i,9n,117p,1441b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on PEAG-Manuscript_ELS.pdf (9 pages).
+Output written on PEAG-Manuscript_ELS.pdf (10 pages).
