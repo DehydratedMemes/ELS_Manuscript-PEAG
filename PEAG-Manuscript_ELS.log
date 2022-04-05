@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.16)  5 APR 2022 00:04
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.16)  5 APR 2022 00:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1132,40 +1132,40 @@ LaTeX Info: Redefining \ttfamily on input line 26.
 )
 \openout1 = `PEAG-Manuscript_ELS.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 32.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 33.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 33.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 32.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 33.
 
-Package chemgreek Info: Activating mapping `default' on line 32.
+Package chemgreek Info: Activating mapping `default' on line 33.
 
-Package hyperref Info: Link coloring OFF on input line 32.
+Package hyperref Info: Link coloring OFF on input line 33.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1175,21 +1175,21 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count376
 )
-LaTeX Info: Redefining \ref on input line 32.
-LaTeX Info: Redefining \pageref on input line 32.
-LaTeX Info: Redefining \nameref on input line 32.
+LaTeX Info: Redefining \ref on input line 33.
+LaTeX Info: Redefining \pageref on input line 33.
+LaTeX Info: Redefining \nameref on input line 33.
  (./PEAG-Manuscript_ELS.out) (./PEAG-Manuscript_ELS.out)
 \@outlinefile=\write6
 \openout6 = `PEAG-Manuscript_ELS.out'.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 32.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 32.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 32.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 32.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 33.
 
 
 Package unicode-math Warning: Using \overbracket and \underbracket from
@@ -1216,9 +1216,9 @@ Package chemmacros Warning: You haven't loaded any package for upright Greek
 (chemmacros)                select a chemgreek mapping manually.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/elements/elements_names_english.def)
-LaTeX Info: Redefining \rmfamily on input line 32.
-LaTeX Info: Redefining \sffamily on input line 32.
-LaTeX Info: Redefining \ttfamily on input line 32.
+LaTeX Info: Redefining \rmfamily on input line 33.
+LaTeX Info: Redefining \sffamily on input line 33.
+LaTeX Info: Redefining \ttfamily on input line 33.
  (./frontmatter.tex
 LaTeX Font Info:    Font shape `TU/XITSMath(2)/m/n' will be
 (Font)              scaled to size 12.00128pt on input line 21.
@@ -1319,12 +1319,16 @@ Overfull \hbox (6.02403pt too wide) in paragraph at lines 18--19
 ) (./results.tex
 File: figures/MEP_r2SCAN_R1.eps Graphic file (type eps)
 <figures/MEP_r2SCAN_R1.eps>
-) (./discussion.tex) (./conclusion.tex [5]) (./PEAG-Manuscript_ELS.bbl
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./discussion.tex) (./conclusion.tex) (./PEAG-Manuscript_ELS.bbl [5]
 Underfull \hbox (badness 1910) in paragraph at lines 25--36
 []\TU/XITS(0)/m/n/12 V. Ásgeirsson, B. O. Birgisson, R. Bjornsson, U. Becker, F. Neese,
  []
 
-[6]
+[6] [7]
 Underfull \hbox (badness 10000) in paragraph at lines 136--147
 []\TU/XITS(0)/m/n/12 A. Ovalle-Sánchez, P. Elizondo-Martínez, N. Pérez-Rodríguez,
  []
@@ -1334,7 +1338,7 @@ Underfull \hbox (badness 1874) in paragraph at lines 136--147
 \TU/XITS(0)/m/n/12 E. Hernández-Fernández, M. G. Sánchez-Anguiano,  Degradation of
  []
 
-[7]
+
 Underfull \hbox (badness 1127) in paragraph at lines 157--163
 []\TU/XITS(0)/m/n/12 M. M. A. Nikje, F. Nazari,  Microwave-assisted depolymerization of
  []
@@ -1385,10 +1389,10 @@ Package rerunfilecheck Info: File `PEAG-Manuscript_ELS.out' has not changed.
 Here is how much of TeX's memory you used:
  38722 strings out of 476182
  855232 string characters out of 5809611
- 1246015 words of memory out of 5000000
+ 1246918 words of memory out of 5000000
  58863 multiletter control sequences out of 15000+600000
  481005 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 104i,9n,117p,1441b,1028s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 104i,9n,117p,1441b,1024s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on PEAG-Manuscript_ELS.pdf (11 pages).
