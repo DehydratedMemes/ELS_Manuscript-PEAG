@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.16)  4 APR 2022 20:30
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.16)  4 APR 2022 20:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1193,7 +1193,14 @@ Overfull \hbox (6.02403pt too wide) in paragraph at lines 7--8
 
 Package natbib Warning: Citation `Nikolaienko2014' on page 4 undefined on input line 9.
 
-) (./results.tex) (./discussion.tex) (./conclusion.tex) (./PEAG-Manuscript_ELS.bbl [4]
+) (./results.tex
+File: figures/MEP_r2SCAN_R1.eps Graphic file (type eps)
+<figures/MEP_r2SCAN_R1.eps>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./discussion.tex) (./conclusion.tex) (./PEAG-Manuscript_ELS.bbl [4]
 Underfull \hbox (badness 1910) in paragraph at lines 27--38
 []\TU/XITS(0)/m/n/12 V. Ásgeirsson, B. O. Birgisson, R. Bjornsson, U. Becker, F. Neese,
  []
@@ -1239,16 +1246,12 @@ braces):
 LaTeX Info: Redefining \rmfamily on input line 9.
 LaTeX Info: Redefining \sffamily on input line 9.
 LaTeX Info: Redefining \ttfamily on input line 9.
-)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+) ) 
 Here is how much of TeX's memory you used:
- 33433 strings out of 476182
- 780874 string characters out of 5809611
+ 33438 strings out of 476182
+ 781016 string characters out of 5809611
  1231497 words of memory out of 5000000
- 53647 multiletter control sequences out of 15000+600000
+ 53651 multiletter control sequences out of 15000+600000
  480605 words of font info for 118 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  104i,9n,117p,1441b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
