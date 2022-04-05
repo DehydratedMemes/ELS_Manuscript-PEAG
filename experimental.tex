@@ -1,7 +1,18 @@
 \section{Experimental}
-\label{sec:experimental}
+\label{sec:Experimental}
 
-The starting configurations for EG and ABEN where proposed and optimized using XTB \cite{Bannwarth2021} with the force field GFN2-xTB \cite{Bannwarth2019}. The staring configuration for DBHET was proposed using crystallographic data \cite{Daubeny1954}, then reoptimized using $r^2\textrm{SCAN-3c}\textrm{ def2/SVP}$. The final point energies where obtained all obtained using \chemomega-B97X-D4/def2-SVP and def2-TZVPP on just the oxygen, nitrogen, and  zinc atoms.
+\subsection{Computational details}
+\label{subsec:ex:CompDetails}
+The software ORCA 5.0.2 \cite{Neese2022} was used to perform all the geometry optimizations, single point energy, energy-weighted climbing image nudged elastic band followed by transition state optimization (NEB-TS) and multidimensional relaxed surface scans.
+For all of the geometry optimizations and vibrational analysis, the meta-generalized-gradient approximation (mGGA) functional $\textrm{r}^2\textrm{SCAN-3c}$ which uses the dispersion correction DFT-D4 \cite{Caldeweyher2020} was used; and for all the single point energy and NEB-TS computations, the range-separated hybrid, generalized gradient approximation functional, \chemomega-B97X-V with DFT-D4 dispersion correction was employed.\footnote{Unless otherwise stated, all computations were made using basis set (BS) def2-SVP with def2-TZVPP over the zinc, oxygen and nitrogen atoms and using def2/J as an auxilary BS.}
+
+\subsection{Modeling of the intermediates}
+\label{subsec:ex:ModIntermed}
+The starting configurations for EG and ABEN where defined and pre-optimized using XTB, \cite{Bannwarth2021} with the force field GFN2-xTB \cite{Bannwarth2019}. After this crude pre-optimization a conformational and rotamer search was done using CREST \cite{Pracht2020}
+In the case of ABEN just one configuration was possible. For EG, six of the lowest energy conformers were re-optimized as described in \ref{subsec:ex:CompDetails} and the lowest in energy was used for this study. The staring configuration for DBHET was proposed using crystallographic data for PET \cite{Daubeny1954} and extendig the unit cell to two units, then re-optimizing this coordinates using $r^2\textrm{SCAN-3c}\textrm{ def2/TZVP}$.
+
+\subsection{NEB-TS method to elucidate the glycolysis mechanisms}
+\label{subsec:ex:NEB-TS}
 The optimized structures where then merged onto the same Cartesian coordinates and then re-optimized in $r^2\textrm{SCAN-3c}\textrm{ def2/SVP}$. Then, a multidimensional relaxed surface scan was performed keeping constrained, and varying the bond distances in 20 steps to obtain the products of the reactions depicted in . The optimized product and the starting geometry of the relaxed surface scan where the input for an Energy-Weighted Climbing image Nudged Elastic Band (EW-CI-NEB) \cite{Asgeirsson2021} algorithm to find the path of minimum energy connecting both ends, followed by a P-RFO optimization to find a TS performed onto the climbing image (CI).
 
 In order to determine covalent and non-covalent interactions regions between the molecules, an analysis based on Hirshfeld partition of molecular density (IGMH) algorithm within multiwfn was performed \cite{Lu2021} onto the optimized reactant. To minimize computation time, aIGM was performed with the MEP obtained by NEB-TS.

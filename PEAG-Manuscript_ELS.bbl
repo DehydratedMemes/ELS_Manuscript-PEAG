@@ -1,4 +1,4 @@
-\begin{thebibliography}{21}
+\begin{thebibliography}{24}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -12,15 +12,13 @@
 \providecommand{\bibinfo}[2]{#2}
 \ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
 %Type = Article
-\bibitem[{Yu et~al.(2016)Yu, He, Li, and Truhlar}]{Yu2016a}
-\bibinfo{author}{H.~S. Yu}, \bibinfo{author}{X.~He}, \bibinfo{author}{S.~L.
-  Li}, \bibinfo{author}{D.~G. Truhlar},
-\newblock \bibinfo{title}{{{MN15}}: {{A Kohn}}\textendash{{Sham}} global-hybrid
-  exchange\textendash correlation density functional with broad accuracy for
-  multi-reference and single-reference systems and noncovalent interactions},
-\newblock \bibinfo{journal}{Chem. Sci.} \bibinfo{volume}{7}
-  (\bibinfo{year}{2016}) \bibinfo{pages}{5032--5051}.
-  \DOIprefix\doi{10/gj6rqn}.
+\bibitem[{Mardirossian and {Head-Gordon}(2014)}]{Mardirossian2014}
+\bibinfo{author}{N.~Mardirossian}, \bibinfo{author}{M.~{Head-Gordon}},
+\newblock \bibinfo{title}{{{$\omega$B97X-V}}: {{A}} 10-parameter,
+  range-separated hybrid, generalized gradient approximation density functional
+  with nonlocal correlation, designed by a survival-of-the-fittest strategy},
+\newblock \bibinfo{journal}{Phys. Chem. Chem. Phys.} \bibinfo{volume}{16}
+  (\bibinfo{year}{2014}) \bibinfo{pages}{9904}. \DOIprefix\doi{10/gf9n3d}.
 %Type = Article
 \bibitem[{{\'A}sgeirsson et~al.(2021){\'A}sgeirsson, Birgisson, Bjornsson,
   Becker, Neese, Riplinger, and J{\'o}nsson}]{Asgeirsson2021}
@@ -162,6 +160,23 @@
 \newblock \bibinfo{journal}{Adv. Polym. Tech.} \bibinfo{volume}{25}
   (\bibinfo{year}{2006}) \bibinfo{pages}{242--246}. \DOIprefix\doi{10/c62nvj}.
 %Type = Article
+\bibitem[{Neese(2022)}]{Neese2022}
+\bibinfo{author}{F.~Neese},
+\newblock \bibinfo{title}{Software update: {{The}} {{{\textsc{ORCA}}}} program
+  system\textemdash{{Version}} 5.0},
+\newblock \bibinfo{journal}{WIREs Comput Mol Sci}  (\bibinfo{year}{2022}).
+  \DOIprefix\doi{10/gpsrmd}.
+%Type = Article
+\bibitem[{Caldeweyher et~al.(2020)Caldeweyher, Mewes, Ehlert, and
+  Grimme}]{Caldeweyher2020}
+\bibinfo{author}{E.~Caldeweyher}, \bibinfo{author}{J.-M. Mewes},
+  \bibinfo{author}{S.~Ehlert}, \bibinfo{author}{S.~Grimme},
+\newblock \bibinfo{title}{Extension and evaluation of the d4 london-dispersion
+  model for periodic systems},
+\newblock \bibinfo{journal}{Phys. Chem. Chem. Phys.} \bibinfo{volume}{22}
+  (\bibinfo{year}{2020}) \bibinfo{pages}{8499--8512}.
+  \DOIprefix\doi{10/gjqg6h}.
+%Type = Article
 \bibitem[{Bannwarth et~al.(2021)Bannwarth, Caldeweyher, Ehlert, Hansen, Pracht,
   Seibert, Spicher, and Grimme}]{Bannwarth2021}
 \bibinfo{author}{C.~Bannwarth}, \bibinfo{author}{E.~Caldeweyher},
@@ -183,6 +198,15 @@
 \newblock \bibinfo{journal}{J. Chem. Theory Comput.} \bibinfo{volume}{15}
   (\bibinfo{year}{2019}) \bibinfo{pages}{1652--1671}.
   \DOIprefix\doi{10/gfvk82}.
+%Type = Article
+\bibitem[{Pracht et~al.(2020)Pracht, Bohle, and Grimme}]{Pracht2020}
+\bibinfo{author}{P.~Pracht}, \bibinfo{author}{F.~Bohle},
+  \bibinfo{author}{S.~Grimme},
+\newblock \bibinfo{title}{Automated exploration of the low-energy chemical
+  space with fast quantum chemical methods},
+\newblock \bibinfo{journal}{Phys. Chem. Chem. Phys.} \bibinfo{volume}{22}
+  (\bibinfo{year}{2020}) \bibinfo{pages}{7169--7192}.
+  \DOIprefix\doi{10/ghfvk8}.
 %Type = Article
 \bibitem[{Daubeny et~al.(1954)Daubeny, {Bunn Charles William}, and
   Brown}]{Daubeny1954}
